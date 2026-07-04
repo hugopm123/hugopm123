@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola! Soy Hugo Preciado 👋</h1>
 
-<h3 align="center">Full Stack & Mobile Developer | Flutter · Firebase · Python | Fundador de HP Dev / Celerisoft</h3>
+<h3 align="center">Full Stack & Mobile Developer | Flutter · Firebase · Python </h3>
 
 <p align="center">
 Apasionado por los negocios, la tecnología y el fútbol ⚽. Construyo apps móviles, backends con IA y productos digitales de punta a punta.
@@ -16,7 +16,6 @@ Apasionado por los negocios, la tecnología y el fútbol ⚽. Construyo apps mó
 
 - 🎓 Ingeniería en Software — Universidad de Colima (2021-2025)
 - 📚 Actualmente cursando Maestría en Tecnologías de Internet — Universidad de Colima (2025-2027)
-- 💼 Desarrollo bajo mi propia marca **HP Dev / Celerisoft** ([celerisoft.com](https://celerisoft.com))
 - 📱 Enfocado en apps móviles con **Flutter + Firebase** para iOS y Android
 - 🤖 Experiencia construyendo agentes de IA para WhatsApp y backends con LLMs
 - 🌎 Trabajo freelance con clientes de LATAM en fintech, e-commerce y servicios digitales
