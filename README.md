@@ -94,8 +94,7 @@ Diseño, desarrollo freelance y publicación de una PWA de e-commerce para venta
 
 <p align="left">
   <a href="mailto:hpreciadobusiness@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.tiktok.com/@hugito.pm"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-  <a href="https://celerisoft.com"><img src="https://img.shields.io/badge/Celerisoft-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://www.instagram.com/hugito.pm"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 </p>
 
 **Apps en producción:**
