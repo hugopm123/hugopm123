@@ -59,7 +59,7 @@ Apasionado por los negocios, la tecnología y el fútbol ⚽. Construyo apps mó
 
 ### 📱 Proyectos Destacados
 
-#### 🎯 [Tempo](https://celerisoft.com) — App de enfoque estilo Pomodoro gamificada
+#### 🎯 Tempo — App de enfoque estilo Pomodoro gamificada
 App móvil freemium para gestión del tiempo con sistema de recompensas y logros. Diseño de marca propio ("Tierra Viva"), estrategia de monetización híbrida (ads + suscripción) y publicación en App Store y Google Play.
 `Flutter` `Dart` `Firebase` `RevenueCat/StoreKit` `AppsFlyer`
 
